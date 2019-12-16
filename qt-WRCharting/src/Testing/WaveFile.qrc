@@ -1,0 +1,5 @@
+﻿<RCC>
+    <qresource prefix="/WRCharting-Testing">
+        <file>wave.dat</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,5 @@
+﻿<RCC>
+    <qresource prefix="/WRCharting-Testing">
+        <file>spec.dat</file>
+    </qresource>
+</RCC>
