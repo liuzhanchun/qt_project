@@ -10,3 +10,10 @@ pcm 示例
 与方法一相比，方法二虽然麻烦，但是这种方法是进行语音编解码和语音网络传输的基础。
 
 
+qt-WRCharting 实例
+频谱绘图  主要包括频谱图，瀑布图，波形图等
+
+
+Qt界面开发（各种控件以及图表）
+https://blog.csdn.net/zx249388847/article/details/80563993
+form_example
